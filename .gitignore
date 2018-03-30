@@ -1,0 +1,10 @@
+Evaluation/
+__pycache__
+ai_challenger*
+cache/
+id_to_test_caption.json
+img_list
+models*
+results/
+val_img.jpg
+val_img_list
